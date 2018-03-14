@@ -1,4 +1,5 @@
 create table health_Record(
 health_record_id int,
 code_id int,
-clinical_comments text);
+clinical_comments text,
+created_date date);
